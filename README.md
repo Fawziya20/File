@@ -1,27 +1,33 @@
-# File
+### EX NO : 10
+### DATE  : 08.06.2022
+# <p align="center">File</p>
 
 ## Aim:
 To Develop a C# program to get the values from the students such as name, age, department, and semester_percentage using the structure and store it in a file in a specific path using the file stream concept.
+
 ## Algorithm:
-## Step 1:
+### step 1: 
 Create a structure of student details.
 
-## Step 2:
+### step 2:
 Create a file using FileStream.
 
-## Step 3:
+### step 3:
 Get the number of students and their details from the user.
 
-## Step 4:
+### step 4:
 Create a function to write the details of the students in the created file.
 
-## Step 5:
+### step 5:
 Pass the details of the student to the function.
 
-## Step 6:
+### step 6:
 File has been created and written with student details.
+
+<br/><br/><br/><br/><br/><br/>
+
 ## Program:
-```python
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -77,6 +83,5 @@ public class program
 <img width="1440" alt="Screenshot 2022-06-16 at 10 50 48 AM" src="https://user-images.githubusercontent.com/75235022/173997152-33583bfd-482a-40bf-bda2-b521a3ea464e.png">
 
 
-
 ## Result:
-Thus C# program to get student details using structure and storing it in a file in a specific path using the file stream concept is implemented successfully
+C# program to get student details using structure and storing it in a file in a specific path using the file stream concept is implemented successfully.
